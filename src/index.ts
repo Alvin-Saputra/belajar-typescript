@@ -1,4 +1,4 @@
 const sapaan: string = "Halo, ini kode TypeScript pertamaku!";
-const tahun: number = 2026;
+const year: number = 2026;
 
-console.log(`${sapaan} Sekarang tahun ${tahun}.`);
+console.log(`${sapaan} Sekarang tahun ${year}.`);
